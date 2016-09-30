@@ -5,7 +5,7 @@ $ npm install -g express-generator
 ```
 安装 express 命令行工具，使用它我们可以初始化一个 express 项目
 
-![image](C:\Users\sea\Desktop\node个人博客教程\express.png)
+![image](/express.png)
 
 ----
 
